@@ -22,7 +22,7 @@ We are the **ARU Tech Community**, a group of **students and technology enthusia
 * 🤝 Open to **collaboration** on Web, Android, and Data projects
 * 🏆 Preparing members for **hackathons, internships, and tech careers**
 * 📫 Reach us at **[ardhitechcommunity@gmail.com](mailto:ardhitechcommunity@gmail.com)**
-* ⚡ Our motto: **Learn. Build. Share.**
+* ⚡ Our motto: **At the edge of reality, Innovation erupts.**
 
 ---
 
@@ -207,7 +207,6 @@ We are the **ARU Tech Community**, a group of **students and technology enthusia
 | 🗳️ **Community Website** | Our comunituy website | 🚧 In progress | 🚧 In progress |
 
 
-> Add your community repositories here as they grow.
 
 ---
 
